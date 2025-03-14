@@ -1,0 +1,3 @@
+usrin set D:\VS Projects\alphite\bin\Debug\net8.0\foo.txt
+cdll load /p D:\VS Projects\alphite\bin\Debug\net8.0\alphite.dll
+cdll inv alphite alphite MainLoop /usrin

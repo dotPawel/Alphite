@@ -1,0 +1,5 @@
+[ptm-cmd] usrin set ::cdir::::unsc:input::
+cdll load /p UniCMD.data\alphite\alphite.dll
+cdll inv alphite alphite MainLoop /usrin
+cdll clr
+echo Control redirected back to UniCMD
